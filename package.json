@@ -1,0 +1,23 @@
+{
+  "name": "onplate",
+  "version": "0.1.0",
+  "description": "Food Ordering API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrithvirajTK27/OnPlate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrithvirajTK27/OnPlate/issues"
+  },
+  "homepage": "https://github.com/PrithvirajTK27/OnPlate#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
